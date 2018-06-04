@@ -1,7 +1,7 @@
 # simple_shell
 
 <p align="center">
-	<img src="images/shelly.gif" alt="Happy Shell">
+	<img src="shelly.gif" alt="Happy Shell">
 </p>
 
 ## DESCRIPTION
@@ -121,7 +121,7 @@ Additionally, we did not have enough time to check for aliases.
 
 1.  “ls ARGUEMENTS“ - this is not supposed to execute
 
-2.       /bin/ls
+2.        /bin/ls
            /bin/ls
            /bin/ls
     This is should execute ls 3 times but does not at this time.
